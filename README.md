@@ -40,25 +40,14 @@ PyQt5-Qt5                    5.15.2
 PyQt5-sip                    12.10.1
 pyqt5-tools                  5.15.4.3.2**
 
-**Pycham 2021.1.3**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ba2d84f8b9704abfbfa359b5bf616fea.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_18,color_FFFFFF,t_70,g_se,x_16)
-
 ```
 **PythonVersion 3.9.12**
 ```
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/3050ef31da794f1f98d32fb05a5ae651.png)
-**Anaconda**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/47462d375b0a4e08a22cf33bc50b0d71.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-
 ### QT-designer
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d7e826c9112f4f27b462f3a1b3e3b891.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e9bef28e2e0241828bcd633769542490.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-#### Setting
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/b8c6fa4783d243f2b2ba4702c1ae52e3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_19,color_FFFFFF,t_70,g_se,x_16)
 
 # Code
 
