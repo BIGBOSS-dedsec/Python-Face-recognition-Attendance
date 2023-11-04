@@ -5,70 +5,67 @@ This project is designed for IOT laboratory personnel check-in and attendance, a
 2. Calculation of attendance time
 3. Save the attendance data in CSV format (Excel) **
 
-*PS: This system 2D face recognition, saving the tedious face recognition training part, simple and fast *
+PS: This system 2D face recognition, saving the tedious face recognition training part, simple and fast
 
-** This project is a beta version, the official version will add more features, continue to update..... **
-* I'll put the beta project address at the end *
+This project is a beta version, the official version will add more features, continue to update.....
+I'll put the beta project address at the end
 
 ## Project renderings
 
-**系统初始化登陆界面**
+**System initialization login interface**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f48f7936b3ff4a5496e188c13c64dc36.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-**主界面展示图：**
+**Main interface display picture:**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c2d5b4d272ad4a7eac5ae8107dfb56e9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-**签到功能展示**
+**Sign in function display **
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/61685dd4b9184bdb8c33379f0e52833d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0a2258078cc84c16b941cc4220a7aca0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-**签退功能展示**
+**Sign out function display**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4cc3fd36c2584623b277994dbe1c9b1e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-**后台签到数据记录**
+**Background check-in data recording**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f752bbde1e7b4a4bba2090f38d46ae2b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
-**是否签到/退判断**
+**Check in/check out**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/eadfab52443c4c29b1829a653a41887f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-# 项目需要的环境
+# The environment required for the project
 
-*核心环境：*
 **OpenCV-Python     			 4.5.5.64**
 **face_recognition					1.30
 face_recognition_model   				0.3.0
 dlib 								19.23.1**
 
-*UI窗体界面:*
+
 **PyQt5                        5.15.4
 pyqt5-plugins                5.15.4.2.2
 PyQt5-Qt5                    5.15.2
 PyQt5-sip                    12.10.1
 pyqt5-tools                  5.15.4.3.2**
 
-## 编译器
-
 **Pycham 2021.1.3**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ba2d84f8b9704abfbfa359b5bf616fea.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_18,color_FFFFFF,t_70,g_se,x_16)
 
 ```
-**Python版本 3.9.12**
+**PythonVersion 3.9.12**
 ```
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3050ef31da794f1f98d32fb05a5ae651.png)
 **Anaconda**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/47462d375b0a4e08a22cf33bc50b0d71.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-### 辅助开发QT-designer
+### QT-designer
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d7e826c9112f4f27b462f3a1b3e3b891.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e9bef28e2e0241828bcd633769542490.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-#### 项目配置
+#### Setting
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b8c6fa4783d243f2b2ba4702c1ae52e3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_19,color_FFFFFF,t_70,g_se,x_16)
 
-# 代码部分
+# Code
 
-## 核心代码
+## CoreCode
 
 **MainWindow.py**
-*UI文件加载：*
+*UI File：*
 
 ```python
 class Ui_Dialog(QDialog):
@@ -82,7 +79,7 @@ class Ui_Dialog(QDialog):
         self.Videocapture_ = None
 ```
 
-*摄像头调用：*
+*Camera：*
 
 ```python
     def refreshAll(self):
@@ -91,7 +88,7 @@ class Ui_Dialog(QDialog):
 ```
 
 **OutWindow.py**
-*获取当前系统时间*
+*request Time*
 
 ```python
 class Ui_OutputDialog(QDialog):
@@ -109,7 +106,7 @@ class Ui_OutputDialog(QDialog):
         self.image = None
 ```
 
-*签到时间计算*
+*Check in time*
 
 ```python
     def ElapseList(self,name):
@@ -132,7 +129,7 @@ class Ui_OutputDialog(QDialog):
                                 self.TimeList2.append(Time2)
 ```
 
-*人脸识别部分*
+*FaceRecognition*
 
 ```python
 # 人脸识别部分
@@ -155,7 +152,7 @@ class Ui_OutputDialog(QDialog):
         return frame
 ```
 
-*签到数据保存与判断*
+*CheckData*
 
 ```python
 # csv表格保存数据
@@ -214,18 +211,13 @@ class Ui_OutputDialog(QDialog):
                                 self.ClockOutButton.setEnabled(True)
 ```
 
-### 项目目录结构
+### Project directory structure
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/985c4a761fce457cb773e87fde0903ee.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_8,color_FFFFFF,t_70,g_se,x_16)
 
-# 后记
+# At Last
 
-***因为本系统没有进行人脸训练建立模型，系统误识别率较高，安全性较低
-系统优化较差，摄像头捕捉帧数较低（8-9），后台占有高，CPU利用率较高
-数据保存CSV格式，安全性较低***
+***Because there is no face training model in this system, the system misrecognition rate is high and the security is low
+The system optimization is poor, the camera captures a low number of frames (8-9), the background occupies a high, and the CPU utilization is high
+Data is saved in CSV format, which has low security***
 
-## 正式版改进
-
-**1.加入TensorFlow深度学习，提高系统人脸识别安全性与准确性
-2.加入MySQL数据库，对签到数据进行更安全保护，不易被修改
-3.美化优化UI设计**
