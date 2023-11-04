@@ -1,16 +1,16 @@
-# 前言
+# Introduction
 
-本项目为IOT实验室人员签到考勤设计，系统实现功能：
-**1.人员人脸识别并完成签到/签退
-2.考勤时间计算
-3.保存考勤数据为CSV格式（Excel表格）**
+This project is designed for IOT laboratory personnel check-in and attendance, and the system implements the following functions:
+**1. Personnel face recognition and complete check-in/check-out
+2. Calculation of attendance time
+3. Save the attendance data in CSV format (Excel) **
 
-*PS：本系统2D人脸识别，节约了繁琐的人脸识别训练部分，简洁快捷*
+*PS: This system 2D face recognition, saving the tedious face recognition training part, simple and fast *
 
-**该项目为测试版，正式版会加入更多的功能，持续更新中.....**
-*测试版项目地址我会放到结尾*
+** This project is a beta version, the official version will add more features, continue to update..... **
+* I'll put the beta project address at the end *
 
-## 项目效果图
+## Project renderings
 
 **系统初始化登陆界面**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f48f7936b3ff4a5496e188c13c64dc36.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQklHQk9TU3lpZmk=,size_20,color_FFFFFF,t_70,g_se,x_16)
